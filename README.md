@@ -3,6 +3,7 @@
 Task Use a distributed computing platform and perform a task suited to the platform. You can demo one of the reference labs or you can implement a custom project (say word count on Spark on AWS EMR).
 #
 For this assignment I decided to demo the Google qwicklab Distributed Image Processing in Cloud Dataproc
+https://www.qwiklabs.com/focuses/5834?catalog_rank=%7B%22rank%22%3A7%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4914974
 
 In this demo I learned how to:
 1) Create Dataproc clusters, manage them and insatll Apache Spark
@@ -29,6 +30,19 @@ Follow these commands/steps to install Scala, sbt and compile your code
 
 After this, build out the feature dector files.  Your will clone in the Dataproc repository from github, cd into it in order to move forward 
 
+Step 3: Run this command to build a "fat JAR" of the feature detector, allowing it to be submitted to Dataproc
 
+sbt assembly
+
+Step 4: Create a GCS bucket and add sample images
+
+Name your buket, then use the gsutil program to create it.
+Then you will use the curl command to place pictures in your bucket
+
+
+
+Step 5: Create your cluster
+
+set a cluster name to the MYCLUSTER variable.
 
 

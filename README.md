@@ -25,7 +25,7 @@ Step 2: Set up your environment and launch your build
 
 Follow these commands/steps to install Scala, sbt and compile your code
 
-
+1[](https://github.com/zjserapin/distributed-project3/blob/master/images./Screen%20Shot%202020-04-16%20at%207.32.33%20PM.png)
 
 After this, build out the feature dector files.  Your will clone in the Dataproc repository from github, cd into it in order to move forward 
 

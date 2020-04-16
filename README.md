@@ -17,4 +17,6 @@ Identity and API Access = Allow full access to all Cloud APIs
 
 All other settings left to default
 
+![](https://github.com/zjserapin/distributed-project3/blob/master/images./Screen%20Shot%202020-04-16%20at%204.00.57%20PM.png)
+
 

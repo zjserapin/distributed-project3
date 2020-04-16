@@ -19,4 +19,8 @@ All other settings left to default
 
 ![](https://github.com/zjserapin/distributed-project3/blob/master/images./Screen%20Shot%202020-04-16%20at%204.00.57%20PM.png)
 
+Once your instance pops up, click on SSH to open your SSH window.
+
+
+
 

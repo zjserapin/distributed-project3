@@ -54,6 +54,7 @@ Step 6: Submit the job to Cloud Dataproc and look at the results
 Check storage browser to make sure you recieved the job.
 Click the imgs folder and then navigate to the out/ folder to see where your results are stored.
 
+![](https://github.com/zjserapin/distributed-project3/blob/master/images./Screen%20Shot%202020-04-16%20at%206.09.34%20PM.png)
 
 We can see by the "before and after" pictures that the job was successful!
 

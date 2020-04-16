@@ -39,7 +39,7 @@ Step 4: Create a GCS bucket and add sample images
 Name your buket, then use the gsutil program to create it.
 Then you will use the curl command to place pictures in your bucket
 
-
+1[](https://github.com/zjserapin/distributed-project3/blob/master/images./Screen%20Shot%202020-04-16%20at%207.41.21%20PM.png)
 
 Step 5: Create your cluster
 

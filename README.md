@@ -21,6 +21,14 @@ All other settings left to default
 
 Once your instance pops up, click on SSH to open your SSH window.
 
+Step 2: Set up your environment and launch your build
+
+Follow these commands/steps to install Scala, sbt and compile your code
+
+
+
+After this, build out the feature dector files.  Your will clone in the Dataproc repository from github, cd into it in order to move forward 
+
 
 
 

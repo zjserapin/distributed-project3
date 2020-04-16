@@ -10,3 +10,11 @@ In this demo I learned how to:
 #
 
 Step 1: Set up a development machine using Compute engine
+
+Name = Devhost
+Machine Type = 2 vCPUs (n-1standard-2 instance)
+Identity and API Access = Allow full access to all Cloud APIs
+
+All other settings left to default
+
+

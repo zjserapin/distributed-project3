@@ -47,6 +47,20 @@ set a cluster name to the MYCLUSTER variable.
 
 ![](https://github.com/zjserapin/distributed-project3/blob/master/images./Screen%20Shot%202020-04-16%20at%207.41.21%20PM.png)
 
+Step 6: Submit the job to Cloud Dataproc and look at the results
+
+![](https://github.com/zjserapin/distributed-project3/blob/master/images./Screen%20Shot%202020-04-16%20at%207.49.58%20PM.png)
+
+Check storage browser to make sure you recieved the job.
+Click the imgs folder and then navigate to the out/ folder to see where your results are stored.
+
+
+We can see by the "before and after" pictures that the job was successful!
+
+
+
+
+This completes the demo!
 
 
 

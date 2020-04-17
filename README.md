@@ -65,5 +65,5 @@ We can see by the "before and after" pictures that the job was successful!
 
 This completes the demo!
 
-Check out this video for a more in depth look: 
+Check out this video for a more in depth look: https://youtu.be/s6WmbHngsUY
 

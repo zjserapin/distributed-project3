@@ -58,7 +58,7 @@ Click the imgs folder and then navigate to the out/ folder to see where your res
 
 We can see by the "before and after" pictures that the job was successful!
 
-![](https://github.com/zjserapin/distributed-project3/blob/master/images./out_classroom.jpg)
+![](https://github.com/zjserapin/distributed-project3/blob/master/images./imgs_classroom.jpg)
 
 #
 ![](https://github.com/zjserapin/distributed-project3/blob/master/images./out_classroom_output.jpg)
